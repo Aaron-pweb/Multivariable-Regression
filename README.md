@@ -1,16 +1,16 @@
-# Boston House Price Valuation Model 🏡💰
+# Boston House Price Valuation Model
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Sklearn](https://img.shields.io/badge/scikit--learn-Regression-green)
 
-## 📖 Overview
+## Overview
 
 Welcome to the **Boston House Price Valuation Model** project. This project simulates a real-world task for a real estate development company in the 1970s. The objective is to build a robust multivariable regression model to estimate the price of residential properties in Boston, Massachusetts, based on various socioeconomic and structural characteristics.
 
 By analyzing the famous Boston Housing dataset, this project demonstrates the end-to-end process of data science, from exploratory data analysis (EDA) to model evaluation and price prediction.
 
-## 🎯 Objectives
+##  Objectives
 
 1.  **Analyze & Explore**: deep dive into the Boston house price data.
 2.  **Data Splitting**: Separate data into training and testing sets to ensure model validity.
@@ -40,7 +40,7 @@ The dataset contains information collected by the U.S. Census Service concerning
 | **LSTAT**   | % lower status of the population                                    |
 | **PRICE**   | Median value of owner-occupied homes in $1000's                     |
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python**: Core programming language.
 - **Pandas**: Data manipulation and analysis.
@@ -48,7 +48,7 @@ The dataset contains information collected by the U.S. Census Service concerning
 - **Matplotlib / Seaborn / Plotly**: Data visualization.
 - **Scikit-Learn**: Machine learning (Linear Regression, train_test_split).
 
-## 🚀 Getting Started
+##  Getting Started
 
 1.  **Clone the repository**
 
